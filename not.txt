@@ -1,0 +1,8 @@
+twitter secret keyleri twitter portaldan alınmaktadır.
+
+PORT=  3001 
+
+CONSUMER_KEY=S5xkyz1VhbqQaMI17C0eWn48Q
+CONSUMER_SECRET=ibTHWus0WSxW6NSLPTjA7XNAeEuvdXgxWwn80ZMrzoZdD0u2Ub
+
+NODE_TLS_REJECT_UNAUTHORIZED=1
